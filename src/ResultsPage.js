@@ -25,7 +25,7 @@ function ResultsPage() {
   }, {});
 
   return (
-    <div>
+    <div class="container">
       <h1>Analysis Results</h1>
       <div>
         <p>Rule 1: Total Revenue 5 Crore Flag: {resultsArray["TOTAL_REVENUE_5CR_FLAG"] || "Not evaluated"}</p>
