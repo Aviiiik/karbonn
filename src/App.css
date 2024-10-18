@@ -61,4 +61,5 @@ p {
   font-size: 16px;
   margin: 10px 0;
   text-align: center; /* Center paragraph text */
+  font-weight: bold;
 }
